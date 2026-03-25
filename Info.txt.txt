@@ -1,0 +1,10 @@
+Nombre del alumno: Ana Rubi Aguirre Sanchez 
+
+Fecha: 10/03/2026
+
+Objetivo de la actividad: Entender como funciona github y sus respectivas consultas.
+
+Qué es un Pull Request (definición breve):
+Un Pull Request (PR) es una propuesta para integrar cambios de código desde una rama de desarrollo hacia una rama principal o proyecto oficial.
+
+Es el corazón del desarrollo colaborativo (especialmente en plataformas como GitHub, GitLab o Bitbucket), ya que permite que otros miembros del equipo revisen, comenten y aprueben los cambios antes de que se unan definitivamente al código base.
